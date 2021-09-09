@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PhillypHenning
 - 👀 I’m interested in DevOps and Game Development
-- 🌱 I’m currently learning Kubernetes and Unity
-- 💞️ I’m looking to collaborate on... Still looking :P 
+- 🌱 I’m currently learning Kubernetes, Terraform, Helm and Unity
 - 📫 How to reach me phillyp.henning@gmail.com
 
 <!---
